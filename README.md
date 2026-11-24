@@ -14,4 +14,4 @@ Root Directory empty, set Framework Preset to Other, and set Deployment
 Protection to preview-only so learners scanning a QR code are not asked to
 sign in.
 
-Catalog: https://github.com/me5231979/Course_Library
+Catalog: https://github.com/FuturesLearningHub/FLH-Learning-Library-

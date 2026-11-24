@@ -3,7 +3,7 @@
 Short-format course (Classroom 40 / Core 30 / self-paced ~15). Live at
 https://me5231979.github.io/ (GitHub Pages, `gh-pages`
 branch). Part of the CHART Program and Manager Voyage; catalog at
-me5231979/Course_Library. Same engine and standing principles as the other
+FuturesLearningHub/FLH-Learning-Library-. Same engine and standing principles as the other
 Learning Series courses.
 
 ## Course-specific principles (do not regress)
